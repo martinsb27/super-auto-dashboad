@@ -65,7 +65,13 @@ El dashboard responde a preguntas clave como:
 
 ## Capturas del dashboard
 *(Agregar aquí 2 o 3 imágenes del dashboard)*
+## Capturas del dashboard
 
+![Resumen de Ventas](img/dashboard_resumen_ventas.png)
+
+![Análisis Comercial](img/dashboard_analisis_comercial.png)
+
+![Indicadores Adicionales](img/dashboard_indicadores_adicionales.png)
 ---
 
 ## Resultado
