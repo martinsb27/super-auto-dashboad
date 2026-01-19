@@ -71,7 +71,7 @@ El dashboard responde a preguntas clave como:
 
 ![Análisis Comercial](img/dashboard_analisis_comercial.png)
 
-![Indicadores Adicionales](img/dashboard_indicadores_adicionales.png)
+![Control de Alertas](img/dashboard_control_alertas.png)
 ---
 
 ## Resultado
