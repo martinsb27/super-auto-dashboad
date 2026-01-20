@@ -34,9 +34,9 @@ Permite a los gerentes identificar rápidamente los productos más vendidos, las
 - **Análisis por Segmentación:** Desglose de productos y zonas para insights estratégicos.
 
 **Capturas:**  
-![Resumen de Ventas](img/sales-overview.png)  
-![Ranking de Comisiones](img/commission-ranking.png)  
-![Alertas de Riesgo Crediticio](img/credit-risk.png)  
+![Resumen de Ventas](img/dashboard_resumen_ventas.png)  
+![Ranking de Comisiones](img/dashboard_analisis_comercial.png)  
+![Alertas de Riesgo Crediticio](img/dashboard_control_alertas.png)  
 
 *(Reemplaza `img/*.png` con tus capturas reales guardadas en la carpeta `/img`)*
 
