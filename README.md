@@ -1,83 +1,57 @@
-# Super Auto – Dashboard de Ventas en Power BI
+# Dashboard Comercial Súper Auto (Power BI)
 
-## Objetivo del proyecto
-Desarrollar un dashboard interactivo en **Power BI** para analizar el desempeño comercial de la empresa **Super Auto**, permitiendo monitorear indicadores clave de ventas, comisiones, perfil del cliente y riesgos asociados a operaciones de crédito, con el fin de apoyar la toma de decisiones del área comercial y financiera.
-
----
-
-## Contexto de negocio
-La empresa comercializa vehículos a través de distintos vendedores, zonas geográficas y formas de pago.  
-El dashboard responde a preguntas clave como:
-
-- ¿Cuál es el volumen total de ventas y su evolución en el tiempo?
-- ¿Qué zonas y tipos de vehículos generan mayor cantidad de ventas?
-- ¿Cuál es el perfil del cliente que más compra?
-- ¿Qué vendedores presentan mejor desempeño?
-- ¿Existen operaciones con riesgo crediticio que deban ser monitoreadas?
+**Dashboard interactivo de ventas diseñado para apoyar la toma de decisiones estratégicas en “Súper Auto S.A.”**
 
 ---
 
-## KPIs y métricas principales
-- Número total de ventas  
-- Monto total vendido  
-- Total de comisiones  
-- Ventas por zona  
-- Ventas por tipo de vehículo  
-- Ventas por forma de pago  
-- Ranking de vendedores  
-- Alertas de crédito  
+## Resumen del Proyecto
+Este dashboard en Power BI ofrece una visión completa del desempeño de ventas, ranking de productos, seguimiento de comisiones y alertas de riesgo crediticio según las políticas de la empresa.  
+Permite a los gerentes identificar rápidamente los productos más vendidos, las zonas de mayor rendimiento y operaciones con posible riesgo de crédito.
 
 ---
 
-## Herramientas utilizadas
-- **Power BI**
-- **Microsoft Excel** (fuente de datos)
-- Modelado y transformación de datos
+## Impacto en el Negocio / Resultados Clave
+- Monitoreo de ventas por más de **29M en ingresos** con **más de 1,000 transacciones**.  
+- Identificación de las zonas de mayor rendimiento: **Zona B y Zona C**.  
+- Destacado de los productos más vendidos: **categorías Hatchback y Sedán**.  
+- Detección de **11 operaciones con riesgo crediticio** antes de ser escaladas.  
+- Entrega de **KPI e insights automatizados**, reduciendo significativamente el tiempo de generación de reportes manuales.
 
 ---
 
-## Insights clave
-- El monto total vendido supera los **29 millones**, con **1,000 transacciones** registradas.
-- Las **zonas B y C** concentran el mayor volumen de ventas, convirtiéndose en zonas estratégicas para acciones comerciales.
-- Los vehículos **Hatchback y Sedán** son los más vendidos, mientras que SUV y Crossover presentan menor participación.
-- El **crédito bancario** es la forma de pago predominante, representando más del **70 %** de las operaciones.
-- El rango de edad **40 a 59 años** concentra la mayor cantidad de ventas.
-- El género masculino representa aproximadamente **dos tercios** de los clientes.
-- Se identificaron **11 alertas de crédito**, lo que permite anticipar riesgos financieros.
-- El ranking de vendedores facilita la identificación de **top performers** y oportunidades de mejora.
+## Tecnologías Utilizadas
+- Power BI Desktop  
+- Microsoft Excel (como fuente de datos)  
+- Modelado y transformación de datos  
+- Cálculos DAX y visualizaciones interactivas
 
 ---
 
-## Estructura del dashboard
-- **Indicadores de Ventas Generales:** visión global del desempeño comercial.
-- **Perfil del Cliente y Ranking de Vendedores:** análisis demográfico y desempeño individual.
-- **Control y Alertas:** monitoreo de operaciones con riesgo crediticio.
+## Aspectos Destacados del Dashboard
+- **Resumen de Ventas:** Total de ingresos, transacciones y productos más vendidos.  
+- **Ranking de Comisiones:** Mejores vendedores por zona.  
+- **Alertas de Riesgo Crediticio:** Detección automática de transacciones de alto riesgo.  
+- **Análisis por Segmentación:** Desglose de productos y zonas para insights estratégicos.
+
+**Capturas:**  
+![Resumen de Ventas](img/sales-overview.png)  
+![Ranking de Comisiones](img/commission-ranking.png)  
+![Alertas de Riesgo Crediticio](img/credit-risk.png)  
+
+*(Reemplaza `img/*.png` con tus capturas reales guardadas en la carpeta `/img`)*
 
 ---
 
-## Aprendizajes
-- Diseño de dashboards orientados a negocio.
-- Análisis de datos comerciales y financieros.
-- Creación de KPIs para toma de decisiones.
-- Uso de Power BI para segmentación y visualización de información.
+## Cómo Usar
+1. Descarga el archivo `.pbix`.  
+2. Ábrelo con **Power BI Desktop (versión 2022 o superior)**.  
+3. Conecta a tu fuente de datos o usa los datos de ejemplo proporcionados.  
+4. Explora los gráficos interactivos, filtros e insights.
 
 ---
 
-## Capturas del dashboard
-*(Agregar aquí 2 o 3 imágenes del dashboard)*
-## Capturas del dashboard
-
-![Resumen de Ventas](img/dashboard_resumen_ventas.png)
-
-![Análisis Comercial](img/dashboard_analisis_comercial.png)
-
-![Control de Alertas](img/dashboard_control_alertas.png)
----
-
-## Resultado
-Este proyecto demuestra la capacidad de **analizar datos comerciales**, **extraer insights relevantes** y **presentar información clara y accionable**, alineada a las necesidades de negocio.
-
----
-
-### Nota
-Este repositorio forma parte de un portafolio orientado a **prácticas y posiciones junior en Data Analytics, Business Intelligence y Automatización**.
+## Aprendizajes y Habilidades Demostradas
+- Creación de **dashboards interactivos** para escenarios de negocio reales.  
+- Transformación de **datos en insights accionables** para la gerencia.  
+- Aplicación de **mejores prácticas en Power BI**: modelado de datos, KPIs y automatización.  
+- Comprensión de **requerimientos de negocio** y entrega de visualizaciones de alto impacto.
