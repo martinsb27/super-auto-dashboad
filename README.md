@@ -38,8 +38,6 @@ Permite a los gerentes identificar rápidamente los productos más vendidos, las
 ![Ranking de Comisiones](img/dashboard_analisis_comercial.png)  
 ![Alertas de Riesgo Crediticio](img/dashboard_control_alertas.png)  
 
-*(Reemplaza `img/*.png` con tus capturas reales guardadas en la carpeta `/img`)*
-
 ---
 
 ## Cómo Usar
